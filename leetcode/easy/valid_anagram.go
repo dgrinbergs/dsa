@@ -1,4 +1,4 @@
-package leetcode
+package easy
 
 // https://leetcode.com/problems/valid-anagram/description/
 
