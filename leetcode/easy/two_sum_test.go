@@ -1,8 +1,9 @@
 package easy
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func TestTwoSum(t *testing.T) {
