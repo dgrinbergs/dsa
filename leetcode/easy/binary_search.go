@@ -2,7 +2,7 @@ package easy
 
 // https://neetcode.io/problems/binary-search
 
-func binarySearch(nums []int, target int) int {
+func BinarySearch(nums []int, target int) int {
 	l := 0
 	r := len(nums) - 1
 
